@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f8f8;
+  color: #17324D;
+  margin: 20px;
+}
+
+h1 {
+  margin: 0 0 16px;
+  padding: 12px;
+  border-bottom: 2px solid #008D84;
+}
+
+h2 {
+  color: #008D84;
+}
+
+.card {
+  margin: 16px 0;
+  padding: 20px;
+  border: 1px solid #17324D;
+  background-color: white;
+}
+
+#favorite {
+  border: 2px solid #E0603A;
+}
+
+p {
+  margin: 0 0 12px;
+  padding: 4px 0 4px 10px;
+  border-left: 3px solid #008D84;
+}
+
+img {
+  width: 300px;
+  margin-top: 10px;
+  padding: 5px;
+  border: 2px solid #008D84;
+}
